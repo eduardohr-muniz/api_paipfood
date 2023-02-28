@@ -1,0 +1,36 @@
+{
+    "idSend": "paipfood",
+    "numeroPedido": "19",
+    "data": "26/02/23   15:32",
+    "tipoPedido": "Entrega",
+    "nomeCliente": "Eduardo",
+    "telefone": "3584091567",
+    "end": "Rua Antônia Leal Carneiro, 522, Monte Verde, Poços de Caldas/nComplemento: Apto 01 /nPonto de referencia: ",
+    "sacola": [
+     {
+        "nomeProduto": "1 x Pizza Média - 4 Fátias - ",
+"tamanho": "  ",
+    "complementos": "Bordas: 1x Cheddar   +8,00, Sabor: 1x Frango com catupiry   +0,00, Sabor: 1x Queijo minas   +0,00",
+    "subtotal": "",
+    "total": "R$50,00",
+    "observacoes": ""
+    },{
+        "nomeProduto": "2 x Açai no copo - 0,00",
+"tamanho": "300ml   5,00",
+    "complementos": "Complementos: 1x Leite em pó   +2,00, Frutas: 1x Banana   +2,00",
+    "subtotal": "0,00",
+    "total": "R$18,00",
+    "observacoes": ""
+    }   ],
+
+    "fromaPagamento": "Dinheiro",
+    "taxaEntrega": "R$5,00",
+    "desconto": "",
+"devolverTrocoDe": "",
+    "trocoPara": "",
+"subTotal": "R$68,00",
+"valorTotal": "R$73,00",
+"idPedido": ""
+    
+    
+}
